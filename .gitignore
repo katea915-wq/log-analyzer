@@ -1,0 +1,5 @@
+*.pyproj
+reports/
+__pycache__/
+*.pyc
+.venv/
